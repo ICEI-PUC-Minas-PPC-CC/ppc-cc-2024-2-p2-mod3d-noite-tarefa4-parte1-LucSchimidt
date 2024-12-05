@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO
+# Personagem AmongUs com Animação.
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem e Construção de Aplicações 3D`
+`2024 - Semestre 1`
 
 ## Integrantes
 
